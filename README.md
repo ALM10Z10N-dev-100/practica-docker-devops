@@ -4,7 +4,10 @@ Aplicación web desarrollada para la materia Gestión de Desarrollo de Software.
 
 ## Integrantes
 
-- Francisco Almazán
+- Francisco Daniel Almazan Patlan
+- Giancarlo Hernandez Flores
+- Luis Enrique Ramirez Felipe
+- Brayan Montoya Vargas
 
 ## Tecnologías
 
