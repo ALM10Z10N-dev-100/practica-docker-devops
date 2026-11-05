@@ -1,4 +1,4 @@
-# Control de Visitas
+no# Control de Visitas
 
 Aplicación web desarrollada para la materia Gestión de Desarrollo de Software.
 
@@ -30,8 +30,3 @@ GET /health
 GET /api/visitas
 
 # Crear .gitignore
-
-Crear:
-
-```text
-.gitignore
