@@ -1,4 +1,4 @@
-no# Control de Visitas
+Control de Visitas
 
 Aplicación web desarrollada para la materia Gestión de Desarrollo de Software.
 
