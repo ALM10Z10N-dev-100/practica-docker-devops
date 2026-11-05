@@ -28,3 +28,10 @@ Endpoints
 GET /health
 
 GET /api/visitas
+
+# Crear .gitignore
+
+Crear:
+
+```text
+.gitignore
