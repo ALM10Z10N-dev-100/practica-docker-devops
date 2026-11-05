@@ -1,4 +1,5 @@
-Control de Visitas
+
+# Control de Visitas
 
 Aplicación web desarrollada para la materia Gestión de Desarrollo de Software.
 
@@ -8,6 +9,7 @@ Aplicación web desarrollada para la materia Gestión de Desarrollo de Software.
 - Giancarlo Hernandez Flores
 - Luis Enrique Ramirez Felipe
 - Brayan Montoya Vargas
+- Francisco Almazán
 
 ## Tecnologías
 
@@ -20,6 +22,7 @@ Aplicación web desarrollada para la materia Gestión de Desarrollo de Software.
 ## Instalación
 
 ```bash
+
 npm install
 npm start
 
@@ -30,3 +33,6 @@ GET /health
 GET /api/visitas
 
 # Crear .gitignore
+
+Crear .gitignore
+
